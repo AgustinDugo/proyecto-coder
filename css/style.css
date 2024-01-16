@@ -54,7 +54,7 @@ ul li a{
     width: 100%;
     height: 43.75rem;
     margin-top: 70px;
-    background-image: url(/assets/inicio.jpg);
+    background-image: url(../assets/inicio.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
